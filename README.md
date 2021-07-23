@@ -23,7 +23,8 @@ Esse foi um desafio técnico passado pela empresa WebJump onde deveria ser criad
 ## Como rodar o projeto:  
 
 1. Clonar o repositório na sua maquina  
-2. Alterar o arquivo `Conexao.example.php` para `Conexao.php` e inserir as credenciais dentro do arquivo para poder rodar o projeto.
+2. Criar um banco de dados e importar o arquivo `webjump.sql`  
+3. Alterar o arquivo `Conexao.example.php` para `Conexao.php` e inserir as credenciais dentro do arquivo para poder rodar o projeto.
 
 
 
